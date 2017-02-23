@@ -1,3 +1,81 @@
-<div class="test"><h1>Hello World!<h1></div>
-  
-<p> My name is raelam and welcome to my site.</p>
+<head>
+  <title>Quest Learning &amp; Assessment</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" media="all" href="/application.css">
+</head>
+<body>
+  <!-- header -->
+  <div class="topBar"></div>
+  <div class="container"> <!-- container for logos -->
+    <div class="row" style="padding-top: 25px; margin-bottom: 25px;"> <!-- row with padding and margin to match other Quest pages -->
+      <div class="col-md-6"><img class="logo" src="/assets/logo.svg" alt="Logo"></div>
+      <div class="col-md-6 hidden-xs hidden-sm"> <!-- new col-me-6 + hidden functionality for small & very small screens -->
+        <a href="http://cns.utexas.edu/"><img width="310px" data-pin-nopin="true" alt="Groupname" src="/assets/splash/groupName.gif" class="pull-right"></a> <!-- didn't touch due to separate ticket handling this logo update -->
+      </div>
+    </div> <!-- /row -->
+  </div>  <!-- /container for logos -->
+  <!-- body -->
+  <div class="container bottom-buffer"> <!-- container for content -->
+      <div class="row"> <!-- row -->
+          <div class="col-md-8 hidden-sm hidden-xs" style="border-right:1px solid #eeeff0; font-size:18px; font-weight:400; line-height:22px; padding-right:20px;"> <!-- left text content + hidden functionality for small & very small screens -->
+              <h2 class="gray" style="margin-top: 5px;">Welcome to Quest</h2> <!-- changed class from "orange" to "gray" -->
+              <p>
+                  Quest provides tools to incorporate online multimedia content and assessments into your course. This hybrid of in-class and online teaching can take on many forms:
+              </p>
+              <p></p>
+              <p>
+                  <span class="splashSubject">Flipped Classroom</span>
+                  <br> Quest provides lecture content to students online before class and the classroom time is saved for case studies, problem solving, demonstrations, etc. The linked assessment feature assures students have seen the content and reveals their level of understanding of the material.
+              </p>
+              <p>
+                  <span class="splashSubject">Online Content</span>
+                  <br> Quest prepares students for lectures with prerequisite knowledge. Feedback from the assessment highlights areas that may need emphasis.
+              </p>
+              <p>
+                  <span class="splashSubject">Pre-Lab</span>
+                  <br> Quest can offer pre-laboratory exercises that demonstrate what occurs in experiments. This preparation and assessment can increase safety in the laboratory also.
+              </p>
+          </div> <!-- /hiding functionality -->
+          <div class="col-md-4"> <!-- login and navigation to help pages -->
+              <div class="menuOption loginOption text-center"> <!-- new loginOption class to control login button specifically -->
+                  <a href="/dispatch/main/student" style="color: #f5f4f0;font-size: 16pt;font-weight: 300;">Log In to Quest</a>
+              </div>
+              <div class="text-center" style="margin-top:20px;">
+                  <h3 class="menuHeader orange">New to Quest?</h3>
+                  <div class="menuOption" style="border-top:1px solid #ccc;">
+                      <a href="https://getquest.cns.utexas.edu/instructors">Instructor Sign-up</a> <!-- New text to differentiate from login -->
+                  </div>
+                  <div class="menuOption">
+                      <a href="https://getquest.cns.utexas.edu/students">Student Sign-up</a> <!-- New text to differentiate from login -->
+                  </div>
+                  <div style="margin-top:20px;"> <!-- new set of nav links to Wiki pages -->
+                      <h3 class="menuHeader orange">Looking for help?</h3>
+                      <div class="menuOption" style="border-top:1px solid #ccc;">
+                          <a href="https://wikis.utexas.edu/display/questla/Instructors">Instructor Wiki</a>
+                      </div>
+                      <div class="menuOption">
+                          <a href="https://wikis.utexas.edu/display/questla/Students">Student Wiki</a>
+                      </div>
+                  </div>
+              </div>
+          </div> <!-- /col-md-4 -->
+      </div> <!-- /row -->
+  </div> <!-- /content container -->
+
+  <!-- footer -->
+  <div class="container footer" style="border-top:1px solid #eeeff0; margin-top:18px; padding-top:18px;"> <!-- footer container -->
+      <div class="row text-center"> <!-- row and text-center to match footer formatting on other Quest pages -->
+          <div class="gray">
+              © Copyright 2016. College of Natural Sciences, The University of Texas at Austin.
+          </div>
+          <div class="gray">
+              Quest Learning &amp; Assessment is provided by the <a style="color:gray;" href="http://cns.utexas.edu">College of Natural Sciences</a> at <a style="color:gray;" href="http://www.utexas.edu">The University of Texas at Austin</a>.
+          </div>
+      </div>
+  </div> <!-- /footer container -->
+</body>
