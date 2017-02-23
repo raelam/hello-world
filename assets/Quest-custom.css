@@ -1,0 +1,108 @@
+/* Custom CSS for Quest Learning & Assessment */
+/* created by Rachel Lammer - 7/2016 */
+/* ------------------------------------------------------------- */
+
+
+/* -------------- General Page definitions -------------- */
+	/* Fonts */
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+	@import url(https://fonts.googleapis.com/css?family=Lora);
+
+	/* Colors */
+	.UTorange {color:#BF5700;}
+	.gray25 {color:#CCCFD1;}
+	.gray5 {color:#999EA3;}
+	.gray75 {color:#666E75;}
+	.gray {color:#333F48;}
+	.blue25 {color:#BED7E1;}
+	.blue5 {color:#7EAFC5;}
+	.blue75 {color:#3C87A3;}
+	.blue {color:#005F86;}
+	.ecru25 {color:#F5F4F0;}
+	.ecru5 {color:#EBE8E2;}
+	.ecru75 {color:#E1DDD2;}
+	.ecru {color:#D6D2C4;}
+
+	.bg-pale {background-color:#EBE8E2;}
+
+	/* Various text style adjustments */
+	.body,body {font-family: 'OpenSans', sans-serif;color:#333F48;}
+	.a,a {color:#BF5700;font-family:'OpenSans',sans-serif;}
+	.h1,h1 {color:#BF5700;font-family:'OpenSans',sans-serif;}
+	.h2,h2 {color:#005F86;font-family:'OpenSans',sans-serif;}
+	.h3,h3 {color:#333F48;font-family:'OpenSans',sans-serif;}
+	.h4,h4 {color:#333F48;font-family:'OpenSans',sans-serif;}
+	.p, p {font-family: 'OpenSans',sans-serif;color:#333F48;}
+
+	/* Breadcrumbs bar */
+	.breadcrumb {background-color:#F5F4F0}
+	.breadcrumb .h1,.h2,.h3,.h4,h1,h2,h3,h4{color:#333F48;}
+
+	/* Table style adjustments */
+	.tableHeaderNormal {padding: 3px 3px 3px 3px;background-color: #005F86;color: #F5F4F0;font-size: 12pt;text-align: center;font-weight: normal;}
+	.table>thead>tr>th {border-bottom:none;font-family:'OpenSans', sans-serif;font-weight:normal;}
+
+	/* Message appearances */
+
+	/* Message box */
+	.AnnounceBox {border:none;}
+	.AnnoucementTitle {color:#BF5700;font-family:'OpenSans',sans-serif;font-size:16pt;border-bottom:1px solid #CCC;}
+	.alert-info {background-color:white;color:#005F86;font-size: 12pt;border-color:white;}
+	.alert-danger {background-color:#BF5700;color:#F5F4F0;font-size: 12pt;border-color:#BF5700;border-radius: 4px;padding:10px;margin-bottom:15px;}
+
+	/* Button appearances */
+	input[type="submit"], input[type="button"]{
+		color: #333;
+    	background-color: #fff;
+    	padding: 6px 12px;
+	    margin-bottom: 0;
+	    font-size: 14px;
+	    font-weight: 400;
+	    line-height: 1.42857143;
+	    text-align: center;
+	    white-space: nowrap;
+	    vertical-align: middle;
+	    background-image: none;
+	    border: 1px solid #ccc;
+	    border-radius: 4px;
+	}
+
+
+/* ------------------------------ Editor Page definitions ------------------------------ */
+
+	/* tab area appearance */
+	#History-View th,td {padding-left: 5px; padding-right: 5px;}
+	#History-View {padding-top: 15px; border-bottom: 1px solid #eee;}
+	#Bank-View {padding-top: 15px;}
+	#Bank-View input {margin-top: -20px;}
+	#Bank-View div {padding-top: 10px; margin-bottom:20px; border-bottom: 1px solid #eee;}
+	#Metadata-View {padding-top: 15px; margin-bottom:20px; border-bottom: 1px solid #eee;}
+	#View-Problem span {display:block;}
+	#View-Problem {margin-bottom:20px; border-bottom: 1px solid #eee;}
+	#view_dfigure {padding-top:15px; margin-bottom:20px; border-bottom: 1px solid #eee;}
+	#view_dfigure input {margin-top:10px; margin-bottom: 10px;}
+	#view_dfigure form {margin-bottom: -15px;}
+	#view_dfigure #btnUpload {margin-left: -15px;}
+	#TeX-Results .well {margin-bottom:0px;}
+	
+	/* Save, Validate, and Publish button spacing */
+	#cgpf, #vif, #cbvf {margin-bottom:10px;}
+
+/* ------------------------------ Instructor Page definitions ------------------------------ */
+
+	.navMenuTitle {margin-left: 0px;border-bottom:solid 1px #333F48;}
+	.ui-widget-content {border:none;}
+
+	/* Learning Module Page definitions */
+
+	/* Web Assign Page definitions */
+
+
+/* ------------------------------ Student Page definitions ------------------------------ */
+
+	/* My courses page headings */
+	.student_course_text{color:#333F48;font-family:'OpenSans',sans-serif;font-size: 12pt;}
+	.student_when_due{color:#BF5700;font-family:'OpenSans',sans-serif;font-size: 12pt;}
+
+/* ------------------------------ Admin Page definitions ------------------------------ */
+
