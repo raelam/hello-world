@@ -58,7 +58,7 @@ def get_action(fname):
 		if re.search('Last Action:.+<i>(\d+\D\d+\D201\d)\s(\w)\s(.+)</i>',atom):
 			head=re.search('Last Action:.+<i>(\d+\D\d+\D201\d)\s(\w)\s(.+)</i>',atom)
 			SYS.append(head.group(1))
-			MSYS.append(head.group(2))
+			MSYS.append(head.group(2)).replace('H','House').replace('S','Senate')
 			KSYS.append(head.group(3).replace(',', ''))
 	return SYS, MSYS, KSYS
 
@@ -72,13 +72,23 @@ def get_subjects(fname):
 			SYS[0]=head.group(1).replace(',','').replace('<br/>',',')
 	return SYS
 
-def get_committee(fname):
+def get_Housecomm(fname):
 	filer=open(fname,'r')
 	SYS=[]
 	SYS.append('unassigned')
 	for atom in filer:
-		if re.search('Committee:.+>(.+)</a>',atom):
-			head=re.search('Committee:.+>(.+)</a>',atom)
+		if re.search('House Committee:.+>(.+)</a>',atom):
+			head=re.search('House Committee:.+>(.+)</a>',atom)
+			SYS[0]=head.group(1).replace(',','')
+	return SYS
+
+def get_Senatecomm(fname):
+	filer=open(fname,'r')
+	SYS=[]
+	SYS.append('unassigned')
+	for atom in filer:
+		if re.search('Senate Committee:.+>(.+)</a>',atom):
+			head=re.search('Senate Committee:.+>(.+)</a>',atom)
 			SYS[0]=head.group(1).replace(',','')
 	return SYS
 
@@ -114,13 +124,14 @@ for num in range(0,length):
 	nCap.append(get_caption('dummy1.txt')[0])
 	nAuth.append(get_auth('dummy1.txt')[0])
 	nDate, nC, nDesc = get_action('dummy1.txt')
-	nCom = get_committee('dummy1.txt')
+	nSCom = get_Senatecomm('dummy1.txt')
+	nHCom = get_Housecomm('dummy1.txt')
 	nSub = get_subjects('dummy1.txt')
 	URL2 = "http://www.legis.state.tx.us/BillLookup/Companions.aspx?LegSess=85R&Bill="+nType[num]+nB[num]
 	curlCom = "curl -s -retry 2 '%s' > dummy2.txt" % (URL2)
 	subprocess.call(curlCom, shell=True)
 	nComp = get_companions('dummy2.txt')
-	print >> fout, nType[num],int(nB[num]),'\t',nType[num],'\t',nAuth[num],'\t',nCap[num],'\t',nSub,'\t',nDate[0],'\t',nDesc[0],'\t',nCom[0],'\t',nURL[num],'\t',nComp
+	print >> fout, nType[num],int(nB[num]),'\t',nType[num],'\t',nAuth[num],'\t',nCap[num],'\t',nSub,'\t',nDate[0],'\t',nC[0],'\t',nDesc[0],'\t',nSCom[0],'\t',nHCom[0],'\t',nURL[num],'\t',nComp
 	i = i + 1
 	if i == 225:
 		time.sleep(20)
