@@ -131,7 +131,7 @@ for num in range(0,length):
 	curlCom = "curl -s -retry 2 '%s' > dummy2.txt" % (URL2)
 	subprocess.call(curlCom, shell=True)
 	nComp = get_companions('dummy2.txt')
-	print >> fout, nType[num],int(nB[num]),'\t',nType[num],'\t',nAuth[num],'\t',nCap[num],'\t',nSub,'\t',nDate[0],'\t',nC[0],'\t',nDesc[0],'\t',nSCom[0],'\t',nHCom[0],'\t',nURL[num],'\t',nComp
+	print >> fout, nType[num],int(nB[num]),'\t',nType[num],'\t',nAuth[num],'\t',nCap[num],'\t',nSub,'\t',nDate[0],'\t',nDesc[0],'\t',nC[0],'\t',nSCom[0],'\t',nHCom[0],'\t',nURL[num],'\t',nComp
 	i = i + 1
 	if i == 225:
 		time.sleep(20)
