@@ -7,8 +7,8 @@
   <center><span class="TitleItem">Filed Senate Bills</span></center>
   <center><span class="TitleItem"></span></center>
   <center><span class="TitleSubItem">85th Legislature Regular Session</span></center>
-  <center><span class="TitleSubItem">Report Date: 3/15/2017</span></center><br>
-	Number of Bills: 2,757<br><table width="100%" cellpadding="1" cellspacing="1">
+  <center><span class="TitleSubItem">Report Date: 3/21/2017</span></center><br>
+	Number of Bills: 2,804<br><table width="100%" cellpadding="1" cellspacing="1">
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SB1" target="_blank">SB 1    </a></td>
       <td width="10%">Author:</td>
@@ -17,7 +17,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -34,7 +34,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -68,7 +68,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/15/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -102,7 +102,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Passed to engrossment as amended</td>
+      <td width="77%">03/16/2017 H Received from the Senate</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -136,7 +136,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Placed on intent calendar</td>
+      <td width="77%">03/16/2017 H Received from the Senate</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -153,7 +153,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/24/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -272,7 +272,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -289,7 +289,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Committee report printed and distributed: Mar  6 2017  2:08PM </td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -323,7 +323,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/24/2017 S Referred to Higher Education</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -340,7 +340,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -374,7 +374,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/23/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  5:05PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -391,7 +391,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:37PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -425,7 +425,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Not again placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Read 2nd time &amp; passed to engrossment</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -442,7 +442,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Reported engrossed</td>
+      <td width="77%">03/15/2017 H Received from the Senate</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -459,7 +459,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -476,7 +476,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -493,7 +493,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -510,7 +510,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -629,7 +629,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -646,7 +646,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -663,7 +663,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/24/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -680,7 +680,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Reported engrossed</td>
+      <td width="77%">03/15/2017 H Received from the Senate</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1258,7 +1258,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1343,7 +1343,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/15/2017 S Committee report printed and distributed: Mar 15 2017  3:14PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1360,7 +1360,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:09PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1394,7 +1394,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/24/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1479,7 +1479,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1496,7 +1496,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1547,7 +1547,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/24/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -1955,7 +1955,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:09PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2176,7 +2176,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/25/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2244,7 +2244,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2295,7 +2295,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2346,7 +2346,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2363,7 +2363,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2567,7 +2567,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -3451,7 +3451,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/25/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -3859,12 +3859,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Committee report printed and distributed: Mar 15 2017  3:12PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to certain substances listed in Penalty  Group 2 of the Texas Controlled Substances Act.<br><br></td>
+      <td width="77%" valign="top">Relating to certain substances listed in Penalty Group 2 of the Texas Controlled Substances Act.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -4216,7 +4216,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
+      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4233,7 +4233,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Not again placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4250,7 +4250,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Higher Education</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4352,7 +4352,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4403,7 +4403,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4471,7 +4471,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4488,7 +4488,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4539,7 +4539,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4675,7 +4675,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4709,7 +4709,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4726,7 +4726,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4981,7 +4981,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5117,7 +5117,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5134,7 +5134,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5151,7 +5151,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5168,7 +5168,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5304,7 +5304,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5321,7 +5321,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5338,7 +5338,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5372,7 +5372,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5389,7 +5389,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5423,7 +5423,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5440,7 +5440,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:11PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5457,7 +5457,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5474,7 +5474,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5525,7 +5525,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5542,7 +5542,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5593,7 +5593,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5746,12 +5746,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:11PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to the prosecution of the offense of improper sexual activity with a person under the supervision of a community supervision and corrections department.<br><br></td>
+      <td width="77%" valign="top">Relating to the prosecution of the offense of improper sexual activity with a person under supervision.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -5780,7 +5780,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">01/30/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5814,7 +5814,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6103,7 +6103,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Committee report printed and distributed: Mar 13 2017  2:10PM </td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6120,7 +6120,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Committee report printed and distributed: Mar 13 2017  2:11PM </td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6171,7 +6171,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/01/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6324,7 +6324,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/16/2017 S Committee report printed and distributed: Mar 16 2017  2:11PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6460,7 +6460,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/01/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6630,7 +6630,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/01/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6783,12 +6783,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:10PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to prohibiting health care practitioners from providing alcoholic beverages to certain persons; imposing an administrative penalty.<br><br></td>
+      <td width="77%" valign="top">Relating to prohibiting certain health care practitioners from providing alcoholic beverages to certain persons; imposing an administrative penalty.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -6834,7 +6834,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:23PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6851,7 +6851,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:23PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6970,7 +6970,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6987,7 +6987,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/01/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7395,7 +7395,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/06/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7429,7 +7429,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/06/2017 S Referred to Higher Education</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7531,7 +7531,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7633,7 +7633,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Reported engrossed</td>
+      <td width="77%">03/15/2017 H Received from the Senate</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8245,7 +8245,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8262,7 +8262,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Committee report printed and distributed: Feb 22 2017  1:48PM </td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8364,7 +8364,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Committee report printed and distributed: Mar 13 2017  2:11PM </td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8381,7 +8381,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/06/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8534,7 +8534,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8568,7 +8568,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8585,7 +8585,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:12PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8738,7 +8738,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/06/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8755,7 +8755,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/06/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8891,7 +8891,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8976,7 +8976,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9078,7 +9078,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Committee report printed and distributed: Mar 14 2017  3:11PM </td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9146,7 +9146,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Higher Education</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9197,7 +9197,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
+      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9265,7 +9265,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9418,7 +9418,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9486,7 +9486,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9707,7 +9707,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9741,7 +9741,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9758,7 +9758,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9792,7 +9792,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Committee report printed and distributed: Mar 15 2017  3:14PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9809,7 +9809,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9843,7 +9843,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/08/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9911,7 +9911,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10013,7 +10013,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10132,7 +10132,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10336,7 +10336,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/13/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10489,7 +10489,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/13/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10523,7 +10523,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/13/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10608,7 +10608,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11084,7 +11084,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11101,7 +11101,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11254,7 +11254,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11288,7 +11288,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:10PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11305,7 +11305,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 S Referred to Nominations</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11373,7 +11373,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11458,7 +11458,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11475,7 +11475,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11577,7 +11577,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11764,7 +11764,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11900,7 +11900,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Nominations</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -11917,7 +11917,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12002,7 +12002,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12104,7 +12104,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:10PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12172,7 +12172,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12257,7 +12257,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
+      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12291,7 +12291,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12308,7 +12308,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12325,7 +12325,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12342,7 +12342,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12444,7 +12444,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12563,7 +12563,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12580,7 +12580,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12682,7 +12682,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Placed on intent calendar</td>
+      <td width="77%">03/21/2017 S Not again placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12801,7 +12801,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12988,7 +12988,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13056,7 +13056,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13345,7 +13345,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13464,7 +13464,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13498,7 +13498,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13549,12 +13549,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to a study and report regarding best practices in the provision of dual credit courses by public institutions of higher education and the transfer of course credit between those institutions.<br><br></td>
+      <td width="77%" valign="top">Relating to a study and report regarding best practices in the transfer of course credit between public institutions of higher education.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -13889,7 +13889,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13906,7 +13906,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13957,7 +13957,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14059,7 +14059,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14195,7 +14195,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14246,7 +14246,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14518,7 +14518,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14603,7 +14603,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
+      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14654,7 +14654,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14705,7 +14705,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Committee report printed and distributed: Mar 16 2017  2:09PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14892,7 +14892,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14943,7 +14943,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/28/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -14994,7 +14994,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Placed on intent calendar</td>
+      <td width="77%">03/20/2017 S Reported engrossed</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15113,7 +15113,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15555,7 +15555,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Committee report printed and distributed: Mar 15 2017  3:39PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15708,7 +15708,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15742,7 +15742,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15827,7 +15827,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15844,7 +15844,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15929,7 +15929,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15963,7 +15963,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15980,7 +15980,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Committee report printed and distributed: Mar 16 2017  2:10PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15997,7 +15997,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/16/2017 S Committee report printed and distributed: Mar 16 2017  2:08PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16014,7 +16014,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Considered in public hearing</td>
+      <td width="77%">03/20/2017 S Committee report printed and distributed: Mar 20 2017  2:11PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16031,7 +16031,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16371,7 +16371,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16388,7 +16388,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16405,7 +16405,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16439,7 +16439,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16507,7 +16507,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Intergovernmental Relations</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16881,7 +16881,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Criminal Justice</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16966,7 +16966,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16983,7 +16983,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17068,7 +17068,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Committee report printed and distributed: Mar 14 2017 12:37PM </td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17323,7 +17323,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17476,7 +17476,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/15/2017 S Committee report printed and distributed: Mar 15 2017  3:13PM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17782,7 +17782,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17986,7 +17986,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18037,7 +18037,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18105,7 +18105,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18122,7 +18122,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18139,7 +18139,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18156,7 +18156,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18207,7 +18207,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18241,7 +18241,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18292,7 +18292,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18326,7 +18326,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Finance</td>
+      <td width="77%">03/27/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18377,7 +18377,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18462,7 +18462,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/21/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18547,7 +18547,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18598,7 +18598,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18734,7 +18734,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Left pending in committee</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19023,7 +19023,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Placed on intent calendar</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19227,7 +19227,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19822,7 +19822,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Referred to Business &amp; Commerce</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19839,7 +19839,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
+      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20434,7 +20434,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Referred to Health &amp; Human Services</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20672,7 +20672,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 S Referred to Natural Resources &amp; Economic Development</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22100,7 +22100,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Referred to Transportation</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22406,7 +22406,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Referred to Higher Education</td>
+      <td width="77%">03/22/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22440,7 +22440,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 S Referred to State Affairs</td>
+      <td width="77%">03/23/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22882,7 +22882,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22899,7 +22899,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22916,7 +22916,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22933,7 +22933,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22950,7 +22950,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22967,7 +22967,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22984,7 +22984,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23001,7 +23001,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23018,7 +23018,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23035,7 +23035,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23052,7 +23052,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23069,7 +23069,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23086,7 +23086,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23103,7 +23103,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23120,7 +23120,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23137,7 +23137,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23154,7 +23154,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23171,7 +23171,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23188,7 +23188,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23205,7 +23205,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23222,7 +23222,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23239,7 +23239,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23256,7 +23256,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Intergovernmental Relations</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23273,7 +23273,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23290,7 +23290,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23307,7 +23307,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23324,7 +23324,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23341,7 +23341,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23358,7 +23358,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23375,7 +23375,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23392,7 +23392,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23409,7 +23409,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23426,7 +23426,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23443,7 +23443,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23460,7 +23460,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23477,7 +23477,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23494,7 +23494,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23511,7 +23511,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23528,7 +23528,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23545,7 +23545,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23562,7 +23562,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23579,7 +23579,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23596,7 +23596,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23613,7 +23613,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23630,7 +23630,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23647,7 +23647,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23664,7 +23664,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23681,7 +23681,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23698,7 +23698,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23715,7 +23715,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23732,7 +23732,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23749,7 +23749,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23766,7 +23766,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23783,7 +23783,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23800,7 +23800,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23817,7 +23817,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23834,7 +23834,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23851,7 +23851,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23868,7 +23868,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23885,7 +23885,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23902,7 +23902,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23919,7 +23919,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23936,7 +23936,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23953,7 +23953,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23970,7 +23970,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23987,7 +23987,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24004,7 +24004,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24021,7 +24021,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24038,7 +24038,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24055,7 +24055,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24072,7 +24072,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24089,7 +24089,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24106,7 +24106,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24123,7 +24123,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24140,7 +24140,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24157,7 +24157,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24174,7 +24174,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24191,7 +24191,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24208,7 +24208,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24225,7 +24225,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24242,7 +24242,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24259,7 +24259,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24276,7 +24276,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24293,7 +24293,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Intergovernmental Relations</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24310,7 +24310,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Intergovernmental Relations</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24327,7 +24327,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24344,7 +24344,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24361,7 +24361,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24378,7 +24378,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24395,7 +24395,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24412,7 +24412,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24429,7 +24429,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24446,7 +24446,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24463,7 +24463,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24480,7 +24480,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24497,7 +24497,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24514,7 +24514,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24531,7 +24531,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24548,7 +24548,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24565,7 +24565,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24582,7 +24582,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24599,7 +24599,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24616,7 +24616,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24633,7 +24633,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24650,7 +24650,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24667,7 +24667,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24684,7 +24684,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Vet Affairs &amp; Border Security</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24701,7 +24701,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24718,7 +24718,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24735,7 +24735,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24752,7 +24752,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24769,7 +24769,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Intergovernmental Relations</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24786,7 +24786,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24803,7 +24803,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24820,7 +24820,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Natural Resources &amp; Economic Development</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24837,7 +24837,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24854,7 +24854,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24871,7 +24871,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24888,7 +24888,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Intergovernmental Relations</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24905,7 +24905,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24922,7 +24922,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24939,7 +24939,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24956,7 +24956,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24973,7 +24973,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24990,7 +24990,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25007,7 +25007,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25024,7 +25024,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25041,7 +25041,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25058,7 +25058,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25075,7 +25075,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25092,7 +25092,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25109,7 +25109,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25126,7 +25126,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25143,7 +25143,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25160,7 +25160,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25177,7 +25177,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25194,7 +25194,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25211,7 +25211,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Administration</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25228,7 +25228,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25245,7 +25245,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25262,7 +25262,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25279,7 +25279,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25296,7 +25296,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25313,7 +25313,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25330,7 +25330,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25347,7 +25347,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25364,7 +25364,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25381,7 +25381,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25398,7 +25398,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25415,7 +25415,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25432,7 +25432,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25449,7 +25449,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25466,7 +25466,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25483,7 +25483,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25500,7 +25500,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25517,7 +25517,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25534,7 +25534,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25551,7 +25551,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25568,7 +25568,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Higher Education</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25585,7 +25585,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25602,7 +25602,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25619,7 +25619,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25636,7 +25636,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25653,7 +25653,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25670,7 +25670,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25687,7 +25687,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25704,7 +25704,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25721,7 +25721,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25738,7 +25738,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25755,7 +25755,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Business &amp; Commerce</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25772,7 +25772,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25789,7 +25789,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25806,7 +25806,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25823,7 +25823,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Transportation</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25840,7 +25840,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Agriculture, Water, &amp;  Rural Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -37145,7 +37145,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Testimony taken in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38056,6 +38056,74 @@
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
     <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SB2244" target="_blank">SB 2244 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">West</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Relating to the creation of the University Hills Municipal Management District; providing authority to issue bonds; providing authority to impose assessments or fees.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SB2245" target="_blank">SB 2245 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Campbell</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Relating to the creation of the North Hays County Municipal Utility District No. 2; granting a limited power of eminent domain; providing authority to issue bonds; providing authority to impose assessments, fees, and taxes.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SB2246" target="_blank">SB 2246 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Estes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Relating to the board of trustees of the Weatherford Junior College District.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SB2247" target="_blank">SB 2247 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Relating to the Paris Junior College District.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR1" target="_blank">SCR 1    </a></td>
       <td width="10%">Author:</td>
       <td width="77%">Buckingham</td>
@@ -38574,7 +38642,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Administration</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38591,7 +38659,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38608,7 +38676,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38625,7 +38693,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/21/2017 S Scheduled for public hearing on  . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38642,7 +38710,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Health &amp; Human Services</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38801,6 +38869,91 @@
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
       <td width="77%" valign="top">Directing the Texas Department of Transportation to adopt a Vision Zero strategy to reduce traffic fatalities and injuries.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR43" target="_blank">SCR 43   </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Kolkhorst</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 H Received from the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Ginger Fagan for her contributions to this state.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR44" target="_blank">SCR 44   </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 H Received from the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Frances Debora McBride Collins.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR45" target="_blank">SCR 45   </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 H Received from the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Dennis H. Boerner.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR46" target="_blank">SCR 46   </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Huffman</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Directing the Texas Facilities Commission to rename the State Insurance Building in the Capitol Complex in honor of former president George H. W. Bush.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SCR47" target="_blank">SCR 47   </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Received by the Secretary of the Senate</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Urging Congress to propose and submit to the states for ratification a regulation freedom amendment to the U.S. Constitution.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -39203,7 +39356,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39475,7 +39628,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 S Scheduled for public hearing on  . . .</td>
+      <td width="77%">03/20/2017 S Considered in public hearing</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39577,7 +39730,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to State Affairs</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39594,7 +39747,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 S Filed</td>
+      <td width="77%">03/16/2017 S Referred to Criminal Justice</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39611,7 +39764,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/08/2017 S Filed</td>
+      <td width="77%">03/20/2017 S Referred to Finance</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -46910,6 +47063,652 @@
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
       <td width="77%" valign="top">Commending Ethan Hatch for achieving the rank of Eagle Scout.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR425" target="_blank">SR 425  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Creighton</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Richard J. Tramm for his contributions to the Lone Star Groundwater Conservation District.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR427" target="_blank">SR 427  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Uresti</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Lisa Gonzales Ortiz.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR428" target="_blank">SR 428  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Nichols</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing parents and family members of individuals with intellectual disabilities.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR429" target="_blank">SR 429  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Watson</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Alex Graves, Tex "T." Mitchell IV, Aaron Walls, and Jake Yepez for their courage.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR430" target="_blank">SR 430  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Watson</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Charles F. Pelphrey on the occasion of his 100th birthday.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR431" target="_blank">SR 431  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Taylor, Larry</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Galveston College on the occasion of its 50th anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR432" target="_blank">SR 432  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Kolkhorst</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing the Treasury Operations division of the Office of the Comptroller of Public Accounts.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR433" target="_blank">SR 433  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Kolkhorst</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Pam Bennett Young on the occasion of her retirement.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR434" target="_blank">SR 434  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Kolkhorst</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Martha Haydon on the occasion of her retirement.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR435" target="_blank">SR 435  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Kolkhorst</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/15/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing the Brenham Children’s Chorus on the occasion of its 15th anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR436" target="_blank">SR 436  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Fred Farias III for being selected as the 2016 Optometrist of the Year.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR437" target="_blank">SR 437  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hall</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing the Forney BBQ Cook-Off and Festival.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR438" target="_blank">SR 438  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Nikita Fridia for her appointment as justice of the peace.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR439" target="_blank">SR 439  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Franklin and Marjorie Willis on the occasion of their 70th wedding anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR441" target="_blank">SR 441  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Nelson</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/16/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing members and alumni of Leadership Grapevine for their civic leadership.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR442" target="_blank">SR 442  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">West</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Homer Hogues on the occasion of his 90th birthday.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR443" target="_blank">SR 443  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Bernadette Richardson.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR444" target="_blank">SR 444  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Buckingham</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Larry Gene Pullin for his work on behalf of veterans.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR446" target="_blank">SR 446  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Buckingham</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing March 2017 as Colorectal Cancer Awareness Month.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR447" target="_blank">SR 447  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Whitmire</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Johnny Villarreal for his service as a firefighter.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR448" target="_blank">SR 448  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Taylor, Van</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Bob L. Townsend on the occasion of his retirement.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR449" target="_blank">SR 449  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Taylor, Van</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing February 22, 2017, as Sachse Day.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR450" target="_blank">SR 450  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Taylor, Van</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Rudolph P. Miller Jr.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR451" target="_blank">SR 451  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Nichols</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing the Texas Department of Transportation for its work.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR452" target="_blank">SR 452  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Garcia</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing David L. Smith and Linda Smith on the occasion of their 25th pastoral anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR453" target="_blank">SR 453  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">West</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Luther D. Edwards Jr.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR454" target="_blank">SR 454  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Rodríguez</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Nancy Hurt Tovar for her contributions to the Texas Elementary Principals and Supervisors Association.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR455" target="_blank">SR 455  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Rodríguez</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing A Smoke-Free Paso del Norte on the occasion of its 15th anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR457" target="_blank">SR 457  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Creighton</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Eunice and Nicholas Peet on the occasion of their 75th wedding anniversary.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR458" target="_blank">SR 458  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hall</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing March 20, 2017, as Balch Springs Day.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR459" target="_blank">SR 459  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hall</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing March 23, 2017, as Seagoville Day.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR460" target="_blank">SR 460  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hinojosa</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Ricco Diaman Delgado.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR461" target="_blank">SR 461  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hinojosa</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing the Texas Innovative Adult Career Education Fund for its commitment to Texas workers.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR462" target="_blank">SR 462  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Hughes</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Jeffrey Patrick Morris for his service to Young Conservatives of Texas.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR463" target="_blank">SR 463  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Nelson | Watson</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Mollie Ann Newcom.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR464" target="_blank">SR 464  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">West</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Charles Ray Sims for being named a 2017 Lifetime Achievement Honoree.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR465" target="_blank">SR 465  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Nelson | Zaffirini</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Patsy Spaw, Secretary of the Texas Senate.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=SR467" target="_blank">SR 467  </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Bettencourt</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/20/2017 S Reported enrolled</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of William Dowling.<br><br></td>
     </tr>
   </table>
 </html>
