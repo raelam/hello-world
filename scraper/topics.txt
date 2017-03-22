@@ -1,0 +1,1097 @@
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0005' target="_blank">
+																Abortion
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0410' target="_blank">
+																Human Relations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0010' target="_blank">
+																Aeronautics
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0895' target="_blank">
+																Human Services--Child Services
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0015' target="_blank">
+																Aging
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0900' target="_blank">
+																Human Services--Direct Assistance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0020' target="_blank">
+																Agriculture
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0910' target="_blank">
+																Human Services--Food Programs
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0025' target="_blank">
+																Alcoholic Beverage Regulation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0920' target="_blank">
+																Human Services--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0030' target="_blank">
+																Alcoholism & Drug Abuse
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0905' target="_blank">
+																Human Services--Medical Assistance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0032' target="_blank">
+																Aliens
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0430' target="_blank">
+																Insurance--Fire, Allied Lines & Home
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0034' target="_blank">
+																Amusements, Games, Sports
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0445' target="_blank">
+																Insurance--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0035' target="_blank">
+																Animals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0422' target="_blank">
+																Insurance--Health & Accident
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0042' target="_blank">
+																Arts & Humanities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0425' target="_blank">
+																Insurance--Insurers & Agents
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0004' target="_blank">
+																Business & Commerce--Copyright, Patents, & Trademarks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0423' target="_blank">
+																Insurance--Life & Annuities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0049' target="_blank">
+																Business & Commerce--Enterprise Zones
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0440' target="_blank">
+																Insurance--Life, Health & Accident
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0052' target="_blank">
+																Business & Commerce--Foreign Trade Zones
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0435' target="_blank">
+																Insurance--Motor Vehicles
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0050' target="_blank">
+																Business & Commerce--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0442' target="_blank">
+																Insurance--Property & Casualty
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0051' target="_blank">
+																Business & Commerce--Small Business & Minority Business
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0443' target="_blank">
+																Insurance--Public Employees
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0006' target="_blank">
+																Business & Commerce--Trade Practices
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0420' target="_blank">
+																Insurance--Reform
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0054' target="_blank">
+																Cemeteries
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0447' target="_blank">
+																Intergovernmental Relations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0055' target="_blank">
+																Charitable & Nonprofit Organizations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0448' target="_blank">
+																Interim Studies
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0063' target="_blank">
+																City Government--Annexation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0450' target="_blank">
+																Juvenile Boards & Officers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0061' target="_blank">
+																City Government--Employees/Officers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0480' target="_blank">
+																Labor--Agricultural Workers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0062' target="_blank">
+																City Government--Finance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0500' target="_blank">
+																Labor--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0060' target="_blank">
+																City Government--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0490' target="_blank">
+																Labor--Health & Safety
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0064' target="_blank">
+																City Government--Land Use & Zoning
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0465' target="_blank">
+																Labor--Management Relations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0066' target="_blank">
+																City Government--Roads
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0475' target="_blank">
+																Labor--Unemployment
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0068' target="_blank">
+																City Government--Utilities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0485' target="_blank">
+																Labor--Wages
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0065' target="_blank">
+																Civil Remedies & Liabilities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0470' target="_blank">
+																Labor--Workers' Compensation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0067' target="_blank">
+																Coastal Affairs & Beaches
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0495' target="_blank">
+																Labor--Workforce Development
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0070' target="_blank">
+																Common Carriers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0496' target="_blank">
+																Labor--Workforce Development--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0073' target="_blank">
+																Communications & Press
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0510' target="_blank">
+																Law Enforcement
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0085' target="_blank">
+																Congress
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0515' target="_blank">
+																Lawyers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0075' target="_blank">
+																Constitutional Revision
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0520' target="_blank">
+																Legislature
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0080' target="_blank">
+																Consumer Protection
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0523' target="_blank">
+																Libraries & Librarians
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0090' target="_blank">
+																Corporations & Associations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0525' target="_blank">
+																Malpractice--Professionals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0092' target="_blank">
+																Corrections--Jails & Prisons
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0530' target="_blank">
+																Mental Health & Mental Retardation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0093' target="_blank">
+																Corrections--Parole, Probation & Pardons
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0019' target="_blank">
+																Mental Health & Substance Abuse
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0095' target="_blank">
+																County Government--Employees/Officers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0535' target="_blank">
+																Military & Veterans
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0097' target="_blank">
+																County Government--Finance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0536' target="_blank">
+																Mines & Mineral Resources
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0096' target="_blank">
+																County Government--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0532' target="_blank">
+																Minors--Crimes Against
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0098' target="_blank">
+																County Government--Land Use & Zoning
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0537' target="_blank">
+																Minors--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0099' target="_blank">
+																County Government--Roads
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0533' target="_blank">
+																Minors--Health & Safety
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0130' target="_blank">
+																Courts--Administration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0534' target="_blank">
+																Minors--Juvenile Justice
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0125' target="_blank">
+																Courts--Appellate
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0538' target="_blank">
+																Notaries
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0135' target="_blank">
+																Courts--Civil Procedure
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0539' target="_blank">
+																Nursing Homes
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0115' target="_blank">
+																Courts--County & Statutory
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0540' target="_blank">
+																Occupational Regulation--Health Occupations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0120' target="_blank">
+																Courts--District
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0541' target="_blank">
+																Occupational Regulation--Other Trades & Professions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0160' target="_blank">
+																Courts--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0545' target="_blank">
+																Oil & Gas
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0140' target="_blank">
+																Courts--Judges
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0546' target="_blank">
+																Open Meetings
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0145' target="_blank">
+																Courts--Juries
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0548' target="_blank">
+																Open Records
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0110' target="_blank">
+																Courts--Justice
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0585' target="_blank">
+																Parks & Wildlife--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0100' target="_blank">
+																Courts--Municipal
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0560' target="_blank">
+																Parks & Wildlife--Hunting & Fishing
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0155' target="_blank">
+																Courts--Personnel
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0565' target="_blank">
+																Parks & Wildlife--Licenses
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0165' target="_blank">
+																Courts--Prosecuting Attorneys
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0555' target="_blank">
+																Parks & Wildlife--Parks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0150' target="_blank">
+																Courts--Reporters
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0570' target="_blank">
+																Parks & Wildlife--Water Safety
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0105' target="_blank">
+																Courts--Small Claims
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0588' target="_blank">
+																Political Subdivisions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0083' target="_blank">
+																Crime Prevention
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0591' target="_blank">
+																Probate--Durable Power of Attorney
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0084' target="_blank">
+																Crime Victims Compensation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0589' target="_blank">
+																Probate--Guardians & Related Trusts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0180' target="_blank">
+																Crimes--Against Morals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0590' target="_blank">
+																Probate--Wills & Admin of Estates
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0170' target="_blank">
+																Crimes--Against Persons--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0592' target="_blank">
+																Product Liability
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0171' target="_blank">
+																Crimes--Against Persons--Sexual
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0615' target="_blank">
+																Property Interests--Eminent Domain
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0175' target="_blank">
+																Crimes--Against Property
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0620' target="_blank">
+																Property Interests--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0195' target="_blank">
+																Crimes--Capital Punishment
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0616' target="_blank">
+																Property Interests--Homestead
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0185' target="_blank">
+																Crimes--Drugs
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0610' target="_blank">
+																Property Interests--Landlord & Tenant
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0190' target="_blank">
+																Crimes--Juvenile
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0605' target="_blank">
+																Property Interests--Mortgages & Liens
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0200' target="_blank">
+																Crimes--Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0600' target="_blank">
+																Property Interests--Personal Property
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0202' target="_blank">
+																Criminal Procedure--Bail & Pretrial Release
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0618' target="_blank">
+																Property Interests--Property Owners Association
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0207' target="_blank">
+																Criminal Procedure--Defense Counsel
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0595' target="_blank">
+																Property Interests--Real Property
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0208' target="_blank">
+																Criminal Procedure--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0008' target="_blank">
+																Property Interests--Trusts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0201' target="_blank">
+																Criminal Procedure--Insanity Defense
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0003' target="_blank">
+																Protection of Personal Information
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0206' target="_blank">
+																Criminal Procedure--Posttrial Procedure
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0630' target="_blank">
+																Public Lands, Buildings & Resources
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0203' target="_blank">
+																Criminal Procedure--Pretrial Procedure
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0642' target="_blank">
+																Purchasing--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0205' target="_blank">
+																Criminal Procedure--Sentencing & Punishment
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0644' target="_blank">
+																Purchasing--Local
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0204' target="_blank">
+																Criminal Procedure--Trial
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0643' target="_blank">
+																Purchasing--State
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0209' target="_blank">
+																Day Care
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0645' target="_blank">
+																Redistricting
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0210' target="_blank">
+																Daylight Saving Time
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0646' target="_blank">
+																Religion
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0380' target="_blank">
+																Disabilities, Persons with
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0712' target="_blank">
+																Resolutions--Adjournment
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0211' target="_blank">
+																Disaster Preparedness & Relief
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0690' target="_blank">
+																Resolutions--Administration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0014' target="_blank">
+																Drunk Driving
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0693' target="_blank">
+																Resolutions--Conf. Comm. Reports
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0214' target="_blank">
+																Economic & Industrial Development--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0705' target="_blank">
+																Resolutions--Congratulatory & Honorary
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0212' target="_blank">
+																Economic & Industrial Development--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0661' target="_blank">
+																Resolutions--Constitutional Amendments
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0213' target="_blank">
+																Education--Bilingual
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0695' target="_blank">
+																Resolutions--Corrective
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0215' target="_blank">
+																Education--County Administration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0700' target="_blank">
+																Resolutions--Invitation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0219' target="_blank">
+																Education--Driver Education & Training
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0713' target="_blank">
+																Resolutions--Joint Session
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0255' target="_blank">
+																Education--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0685' target="_blank">
+																Resolutions--Legislative Policy
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0257' target="_blank">
+																Education--Higher--Admission & Attendance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0715' target="_blank">
+																Resolutions--Mascot
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0256' target="_blank">
+																Education--Higher--Athletics
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0710' target="_blank">
+																Resolutions--Memorial
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0236' target="_blank">
+																Education--Higher--Faculty
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0675' target="_blank">
+																Resolutions--Memorializing Congress
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0232' target="_blank">
+																Education--Higher--Finance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0720' target="_blank">
+																Resolutions--Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0231' target="_blank">
+																Education--Higher--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0016' target="_blank">
+																Resolutions--Official Designations--10-Year Significant Dates
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0237' target="_blank">
+																Education--Higher--Health Institutions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0716' target="_blank">
+																Resolutions--Official Designations--Capitals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0223' target="_blank">
+																Education--Higher--Institutions & Programs
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0717' target="_blank">
+																Resolutions--Official Designations--Festivals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0238' target="_blank">
+																Education--Higher--Private Schools
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0719' target="_blank">
+																Resolutions--Official Designations--Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0224' target="_blank">
+																Education--Higher--State Coordination
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0721' target="_blank">
+																Resolutions--Official Designations--Special Dates
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0234' target="_blank">
+																Education--Higher--Student Fees
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0718' target="_blank">
+																Resolutions--Official Designations--State Symbols
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0235' target="_blank">
+																Education--Higher--Student Financial Aid
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0000' target="_blank">
+																Resolutions--Recall
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0258' target="_blank">
+																Education--Higher--Textbooks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0660' target="_blank">
+																Resolutions--Rules
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0233' target="_blank">
+																Education--Higher--Tuition
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0665' target="_blank">
+																Resolutions--Suits vs. State
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0225' target="_blank">
+																Education--Junior College Districts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0670' target="_blank">
+																Resolutions--United States Constitution
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0222' target="_blank">
+																Education--Nonpublic Schools--Vocational/Avocational
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0711' target="_blank">
+																Resolutions--Use of Chambers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0007' target="_blank">
+																Education--Primary & Secondary--Accountability
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0722' target="_blank">
+																Resolutions--Welcoming
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0227' target="_blank">
+																Education--Primary & Secondary--Admission & Attendance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0731' target="_blank">
+																Retirement Systems--County & District
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0245' target="_blank">
+																Education--Primary & Secondary--Charter Schools
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0725' target="_blank">
+																Retirement Systems--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0228' target="_blank">
+																Education--Primary & Secondary--Curriculum
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0728' target="_blank">
+																Retirement Systems--Judicial
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0244' target="_blank">
+																Education--Primary & Secondary--Discipline
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0729' target="_blank">
+																Retirement Systems--Municipal
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0247' target="_blank">
+																Education--Primary & Secondary--Extracurricular Activities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0730' target="_blank">
+																Retirement Systems--Police & Firefighters
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0241' target="_blank">
+																Education--Primary & Secondary--Facilities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0727' target="_blank">
+																Retirement Systems--State Employees
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0250' target="_blank">
+																Education--Primary & Secondary--Finance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0726' target="_blank">
+																Retirement Systems--Teachers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0230' target="_blank">
+																Education--Primary & Secondary--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0740' target="_blank">
+																Safety
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0248' target="_blank">
+																Education--Primary & Secondary--Home Schooling
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0741' target="_blank">
+																Safety--Fireworks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0246' target="_blank">
+																Education--Primary & Secondary--Other School Personnel
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0745' target="_blank">
+																Salaries & Expenses
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0239' target="_blank">
+																Education--Primary & Secondary--Private
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0751' target="_blank">
+																Science & Technology
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0243' target="_blank">
+																Education--Primary & Secondary--Special
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0013' target="_blank">
+																Special Districts & Authorities--Groundwater Conserve Dist.
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0242' target="_blank">
+																Education--Primary & Secondary--Teachers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0750' target="_blank">
+																Special Districts & Authorities--Hospital
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0229' target="_blank">
+																Education--Primary & Secondary--Testing
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0770' target="_blank">
+																Special Districts & Authorities--Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0226' target="_blank">
+																Education--Primary & Secondary--Textbooks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0009' target="_blank">
+																Special Districts & Authorities--Municipal Utility Districts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0240' target="_blank">
+																Education--Primary & Secondary--Vocational
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0765' target="_blank">
+																Special Districts & Authorities--Navigation & Ports
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0249' target="_blank">
+																Education--Primary & Secondary--Vouchers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0011' target="_blank">
+																Special Districts & Authorities--River Authorities
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0221' target="_blank">
+																Education--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0760' target="_blank">
+																Special Districts & Authorities--Soil & Water Conservation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0220' target="_blank">
+																Education--School Districts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0755' target="_blank">
+																Special Districts & Authorities--Water & Utility
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0277' target="_blank">
+																Elections--Administration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0012' target="_blank">
+																Special Districts & Authorities--Water Control Improve Dist.
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0290' target="_blank">
+																Elections--Campaign Financing
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0749' target="_blank">
+																State Agencies, Boards & Commissions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0280' target="_blank">
+																Elections--Candidates
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0763' target="_blank">
+																State Agencies, Boards & Commissions--Admin. Procedure
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0260' target="_blank">
+																Elections--Early Voting
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0773' target="_blank">
+																State Agencies, Boards & Commissions--Newly Proposed
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0305' target="_blank">
+																Elections--Election Officers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0626' target="_blank">
+																State Employees
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0310' target="_blank">
+																Elections--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0746' target="_blank">
+																State Finances--Appropriations
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0300' target="_blank">
+																Elections--Initiative, Referendum & Recall
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0747' target="_blank">
+																State Finances--Budget
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0308' target="_blank">
+																Elections--Judicial
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0748' target="_blank">
+																State Finances--Management & Control
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0275' target="_blank">
+																Elections--Political Parties
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0761' target="_blank">
+																State Officers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0295' target="_blank">
+																Elections--Presidential
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0774' target="_blank">
+																State Symbols
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0285' target="_blank">
+																Elections--Primaries
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0771' target="_blank">
+																Statutory Revision
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0265' target="_blank">
+																Elections--Registration & Suffrage
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0772' target="_blank">
+																Sunset--Commission Bills
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0283' target="_blank">
+																Elections--School District
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0018' target="_blank">
+																Sunset--Recommended Reviews
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0270' target="_blank">
+																Elections--Voting Systems
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0017' target="_blank">
+																Sunset--Review Procedures
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0311' target="_blank">
+																Electronic Information Systems
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0812' target="_blank">
+																Taxation--Alcoholic Beverages
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0314' target="_blank">
+																Energy--Alternative Fuels
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0808' target="_blank">
+																Taxation--Cigarette
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0317' target="_blank">
+																Energy--Conservation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0775' target="_blank">
+																Taxation--City
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0319' target="_blank">
+																Energy--Fuel Storage
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0780' target="_blank">
+																Taxation--County
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0315' target="_blank">
+																Energy--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0810' target="_blank">
+																Taxation--Energy Resources
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0318' target="_blank">
+																Energy--Nuclear
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0807' target="_blank">
+																Taxation--Franchise
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0316' target="_blank">
+																Energy--Solar
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0815' target="_blank">
+																Taxation--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0325' target="_blank">
+																Environment--Air
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0806' target="_blank">
+																Taxation--Hotel, Motel Occupancy
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0340' target="_blank">
+																Environment--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0805' target="_blank">
+																Taxation--Income
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0333' target="_blank">
+																Environment--Hazardous, Toxic & Nuclear Waste
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0811' target="_blank">
+																Taxation--Inheritance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0335' target="_blank">
+																Environment--Noise
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0809' target="_blank">
+																Taxation--Motor Fuels
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0336' target="_blank">
+																Environment--Recycling
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0813' target="_blank">
+																Taxation--Occupation Tax
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0330' target="_blank">
+																Environment--Solid Waste
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0796' target="_blank">
+																Taxation--Property-Appeal of Tax Decisions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0320' target="_blank">
+																Environment--Water
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0792' target="_blank">
+																Taxation--Property-Appraisals & Appraisal Districts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0345' target="_blank">
+																Ethics
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0798' target="_blank">
+																Taxation--Property-Assessment & Collection
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0351' target="_blank">
+																Family--Child Protection
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0793' target="_blank">
+																Taxation--Property-Exemptions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0352' target="_blank">
+																Family--Child Support
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0797' target="_blank">
+																Taxation--Property-Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0353' target="_blank">
+																Family--Family Violence
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0791' target="_blank">
+																Taxation--Property-State Administration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0354' target="_blank">
+																Family--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0794' target="_blank">
+																Taxation--Property-Tax Rate
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0360' target="_blank">
+																Family--Juvenile Delinquency
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0800' target="_blank">
+																Taxation--Sales
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0350' target="_blank">
+																Family--Marriage Relationship
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0785' target="_blank">
+																Taxation--School District
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0355' target="_blank">
+																Family--Parent & Child
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0790' target="_blank">
+																Taxation--State
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0361' target="_blank">
+																Fees & Other Nontax Revenue--Local
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0818' target="_blank">
+																Tobacco Products
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0362' target="_blank">
+																Fees & Other Nontax Revenue--State
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0816' target="_blank">
+																Tort Reform
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0366' target="_blank">
+																Financial--Banks
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0817' target="_blank">
+																Tourism
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0368' target="_blank">
+																Financial--Credit Unions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0822' target="_blank">
+																Transportation--Aviation
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0365' target="_blank">
+																Financial--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0823' target="_blank">
+																Transportation--Mass Transit
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0367' target="_blank">
+																Financial--Savings & Loans
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0824' target="_blank">
+																Transportation--Miscellaneous
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0370' target="_blank">
+																Fire Fighters & Police--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0821' target="_blank">
+																Transportation--Railroads
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0371' target="_blank">
+																Fire Fighters & Police--Volunteer
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0820' target="_blank">
+																Transportation--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0375' target="_blank">
+																Governor
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0831' target="_blank">
+																Utilities--Electric
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0387' target="_blank">
+																Health Care Providers
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0830' target="_blank">
+																Utilities--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0382' target="_blank">
+																Health--AIDS
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0001' target="_blank">
+																Utilities--Natural Gas
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0388' target="_blank">
+																Health--Children's Insurance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0828' target="_blank">
+																Utilities--Telecommunications
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0384' target="_blank">
+																Health--Emergency Services & Personnel
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0829' target="_blank">
+																Utilities--Telecommunications--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0385' target="_blank">
+																Health--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0002' target="_blank">
+																Utilities--Water & Sewer
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0386' target="_blank">
+																Health--Indigent Health Care
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0835' target="_blank">
+																Validating Acts
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0383' target="_blank">
+																Health--Other Diseases & Medical Conditions
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0841' target="_blank">
+																Vehicles & Traffic--Child Restraint
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0389' target="_blank">
+																Health--Privacy/Use of Information
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0840' target="_blank">
+																Vehicles & Traffic--Driver's Licenses
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0381' target="_blank">
+																Health--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0863' target="_blank">
+																Vehicles & Traffic--DWI & DUID
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0390' target="_blank">
+																Highways
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0855' target="_blank">
+																Vehicles & Traffic--Equipment
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0392' target="_blank">
+																Historic Preservation & Museums
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0865' target="_blank">
+																Vehicles & Traffic--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0395' target="_blank">
+																Holidays
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0850' target="_blank">
+																Vehicles & Traffic--Insurance/Financial Responsibility
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0400' target="_blank">
+																Hospitals
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0860' target="_blank">
+																Vehicles & Traffic--Rules of Road
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0403' target="_blank">
+																Housing--Disabled Persons
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0845' target="_blank">
+																Vehicles & Traffic--Vehicle Registration
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0407' target="_blank">
+																Housing--Finance
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0875' target="_blank">
+																Water--Development
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0405' target="_blank">
+																Housing--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0885' target="_blank">
+																Water--General
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0404' target="_blank">
+																Housing--Homeless Persons
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0880' target="_blank">
+																Water--Navigation & Ports
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0408' target="_blank">
+																Housing--Manufactured Housing
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0870' target="_blank">
+																Water--Rights
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0406' target="_blank">
+																Housing--Rural
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0887' target="_blank">
+																Weapons
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0409' target="_blank">
+																Housing--Veterans
+--
+															<a href='Report.aspx?ID=subject&LegSess=85R&code=I0925' target="_blank">
+																Women
