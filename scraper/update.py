@@ -58,7 +58,7 @@ def get_action(fname):
 		if re.search('Last Action:.+<i>(\d+\D\d+\D201\d)\s(\w)\s(.+)</i>',atom):
 			head=re.search('Last Action:.+<i>(\d+\D\d+\D201\d)\s(\w)\s(.+)</i>',atom)
 			SYS.append(head.group(1))
-			MSYS.append(head.group(2)).replace('H','House').replace('S','Senate')
+			MSYS.append(head.group(2).replace('H','House').replace('S','Senate'))
 			KSYS.append(head.group(3).replace(',', ''))
 	return SYS, MSYS, KSYS
 
