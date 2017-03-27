@@ -7,8 +7,8 @@
   <center><span class="TitleItem">Filed House Bills</span></center>
   <center><span class="TitleItem"></span></center>
   <center><span class="TitleSubItem">85th Legislature Regular Session</span></center>
-  <center><span class="TitleSubItem">Report Date: 3/23/2017</span></center><br>
-	Number of Bills: 5,542<br><table width="100%" cellpadding="1" cellspacing="1">
+  <center><span class="TitleSubItem">Report Date: 3/27/2017</span></center><br>
+	Number of Bills: 5,588<br><table width="100%" cellpadding="1" cellspacing="1">
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB1" target="_blank">HB 1    </a></td>
       <td width="10%">Author:</td>
@@ -17,7 +17,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/13/2017 H Referred to Appropriations: Feb 13 2017  3:06PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -34,7 +34,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Meeting cancelled</td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -374,7 +374,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -425,7 +425,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Ways &amp; Means: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -459,7 +459,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Natural Resources: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -748,12 +748,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to settlement of claims and actions against a governmental unit.<br><br></td>
+      <td width="77%" valign="top">Relating to certain limitations on settlement agreements with a governmental unit.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -1836,7 +1836,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably as substituted</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2086,7 +2086,7 @@
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB132" target="_blank">HB 132  </a></td>
       <td width="10%">Author:</td>
-      <td width="77%">Minjarez | Bernal | Thierry | Rodriguez, Justin | Keough</td>
+      <td width="77%">Minjarez | Bernal | Thierry | Rodriguez, Justin</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2244,7 +2244,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/13/2017 H Referred to Transportation: Feb 13 2017  3:06PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2907,7 +2907,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/14/2017 H Referred to Natural Resources: Feb 14 2017 11:44AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -2958,7 +2958,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably as substituted</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -4199,7 +4199,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5457,7 +5457,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/20/2017 H Referred to State Affairs: Feb 20 2017  3:08PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -5661,7 +5661,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably w/o amendment(s)</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6001,7 +6001,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6188,7 +6188,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Reported favorably w/o amendment(s)</td>
+      <td width="77%">03/27/2017 H Committee report distributed: Mar 27 2017  8:43AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6273,7 +6273,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/16/2017 H Referred to Higher Education: Feb 16 2017 11:33AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -6443,7 +6443,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/16/2017 H Referred to Ways &amp; Means: Feb 16 2017 11:33AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7089,7 +7089,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/20/2017 H Referred to General Investigating &amp; Ethics: Feb 20 2017  3:08PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7157,7 +7157,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -7718,7 +7718,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 H Referred to General Investigating &amp; Ethics: Feb 21 2017 12:03PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8155,7 +8155,7 @@
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB490" target="_blank">HB 490  </a></td>
       <td width="10%">Author:</td>
-      <td width="77%">Anderson, Rodney | Davis, Sarah | Howard | Oliverson</td>
+      <td width="77%">Anderson, Rodney | Davis, Sarah | Howard | Oliverson | Bernal</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8687,7 +8687,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -8942,7 +8942,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably w/o amendment(s)</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9265,7 +9265,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -9928,7 +9928,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/20/2017 H Referred to County Affairs: Feb 20 2017  3:08PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -10013,7 +10013,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/20/2017 H Referred to Ways &amp; Means: Feb 20 2017  3:08PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12206,7 +12206,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/01/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar  1 2017  3:20PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -12886,7 +12886,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to State Affairs: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13685,7 +13685,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13736,7 +13736,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably w/o amendment(s)</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -13855,7 +13855,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 H Referred to Defense &amp; Veterans' Affairs: Feb 21 2017 12:03PM </td>
+      <td width="77%">03/29/2017 H Withdrawn from schedule</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -15504,7 +15504,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Ways &amp; Means: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16099,7 +16099,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 H Referred to Higher Education: Feb 27 2017  3:33PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16711,7 +16711,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to State Affairs: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -16762,7 +16762,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report distributed: Mar 24 2017  8:41AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17442,7 +17442,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 H Referred to Corrections: Mar  6 2017  3:34PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17476,7 +17476,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar  7 2017  3:59PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -17629,7 +17629,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 H Referred to Ways &amp; Means: Feb 21 2017 12:03PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18326,7 +18326,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably as substituted</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18564,7 +18564,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -18700,7 +18700,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 H Referred to Natural Resources: Feb 22 2017  4:25PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19635,7 +19635,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -19856,7 +19856,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20264,7 +20264,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 H Referred to Special Purpose Districts: Feb 22 2017  4:25PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20281,7 +20281,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 H Referred to Special Purpose Districts: Feb 22 2017  4:25PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20604,7 +20604,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Reported favorably as substituted</td>
+      <td width="77%">03/27/2017 H Committee report distributed: Mar 27 2017  8:43AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20876,7 +20876,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Reported favorably as substituted</td>
+      <td width="77%">03/27/2017 H Committee report distributed: Mar 27 2017  8:43AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20893,7 +20893,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 H Referred to Transportation: Feb 22 2017  4:25PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20961,7 +20961,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/22/2017 H Referred to Ways &amp; Means: Feb 22 2017  4:25PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -20978,7 +20978,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 H Referred to Transportation: Feb 27 2017  3:38PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -21845,7 +21845,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Ways &amp; Means: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22270,7 +22270,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 H Referred to Ways &amp; Means: Feb 27 2017  3:33PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -22372,7 +22372,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/27/2017 H Referred to Special Purpose Districts: Feb 27 2017  3:33PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23086,7 +23086,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/28/2017 H Referred to State Affairs: Feb 28 2017 11:36AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23409,7 +23409,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/29/2017 H Scheduled for public hearing in s/c on . . .</td>
+      <td width="77%">03/29/2017 H Withdrawn from schedule</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -23698,7 +23698,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/28/2017 H Referred to Juvenile Justice &amp; Family Issues: Feb 28 2017 11:36AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24361,7 +24361,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Ways &amp; Means: Mar 15 2017  1:36PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24463,7 +24463,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 H Referred to Special Purpose Districts: Mar  7 2017  3:59PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24582,7 +24582,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -24939,7 +24939,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25296,7 +25296,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25313,7 +25313,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25483,7 +25483,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report distributed: Mar 24 2017  8:41AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25602,7 +25602,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to State Affairs: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25687,7 +25687,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to State Affairs: Mar 22 2017 11:37AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25721,7 +25721,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Ways &amp; Means: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -25823,7 +25823,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 H Referred to Agriculture &amp; Livestock: Mar  9 2017  4:13PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -26078,7 +26078,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -26146,7 +26146,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to State Affairs: Mar 15 2017  1:36PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27149,7 +27149,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 H Referred to Ways &amp; Means: Mar  6 2017  3:34PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27217,7 +27217,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar  6 2017  3:34PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27251,7 +27251,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27455,7 +27455,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Left pending in committee</td>
+      <td width="77%">03/23/2017 H Reported favorably w/o amendment(s)</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27489,7 +27489,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/06/2017 H Referred to State Affairs: Mar  6 2017  3:34PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -27846,7 +27846,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Posting rule suspended</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -28084,7 +28084,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -28781,7 +28781,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Committee report distributed: Mar 23 2017  3:29PM </td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -28832,12 +28832,12 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">Relating to the abolishment of certain advisory committees.<br><br></td>
+      <td width="77%" valign="top">Relating to the abolishment of certain advisory committees and other state entities.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -29121,7 +29121,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Reported favorably as substituted</td>
+      <td width="77%">03/27/2017 H Committee report distributed: Mar 27 2017  8:43AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -29563,7 +29563,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Reported favorably as substituted</td>
+      <td width="77%">03/27/2017 H Committee report distributed: Mar 27 2017  8:43AM </td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -29580,7 +29580,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -29750,7 +29750,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar 14 2017 12:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30158,7 +30158,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to Transportation: Mar 14 2017 12:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30175,7 +30175,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to Transportation: Mar 14 2017 12:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30209,7 +30209,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to Transportation: Mar 14 2017 12:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30583,7 +30583,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30838,7 +30838,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 H Referred to Ways &amp; Means: Mar  9 2017 10:49AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -30957,7 +30957,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to County Affairs: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -31926,7 +31926,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to County Affairs: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -31960,7 +31960,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Ways &amp; Means: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32249,7 +32249,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Higher Education: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32368,7 +32368,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Natural Resources: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32385,7 +32385,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Natural Resources: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32725,7 +32725,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to General Investigating &amp; Ethics: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32742,7 +32742,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to General Investigating &amp; Ethics: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -32810,7 +32810,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Natural Resources: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -33116,7 +33116,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Natural Resources: Mar 15 2017  4:17PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -33422,7 +33422,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to Special Purpose Districts: Mar 14 2017  4:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -34408,7 +34408,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -34782,7 +34782,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -34918,7 +34918,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Referred to Transportation: Mar 16 2017  4:13PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -35768,7 +35768,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Scheduled for public hearing on . . .</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -35870,7 +35870,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/13/2017 H Referred to Ways &amp; Means: Mar 13 2017  3:28PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -36788,7 +36788,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Referred to Natural Resources: Mar 21 2017 12:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -37026,7 +37026,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Referred to Higher Education: Mar 21 2017 12:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -37332,7 +37332,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Transportation: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38029,7 +38029,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Ways &amp; Means: Mar 15 2017  1:36PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38437,7 +38437,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Ways &amp; Means: Mar 15 2017  4:17PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38505,7 +38505,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Ways &amp; Means: Mar 15 2017  1:36PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -38998,7 +38998,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Posting rule suspended</td>
+      <td width="77%">03/23/2017 H Left pending in committee</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39151,7 +39151,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to Transportation: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39882,7 +39882,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Referred to Economic &amp; Small Business Development: Mar 16 2017  4:13PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -39950,7 +39950,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Referred to Transportation: Mar 16 2017  4:13PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -40018,7 +40018,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Referred to State Affairs: Mar 16 2017  4:13PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -40154,7 +40154,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/16/2017 H Referred to Natural Resources: Mar 16 2017  4:13PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -40749,7 +40749,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to Economic &amp; Small Business Development: Mar 22 2017 11:37AM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -41344,7 +41344,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to Corrections: Mar 22 2017 11:37AM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -41956,7 +41956,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Referred to Agriculture &amp; Livestock: Mar 21 2017 12:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -42296,7 +42296,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to County Affairs: Mar 23 2017  4:10PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -42347,7 +42347,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to Corrections: Mar 23 2017  4:10PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -43452,7 +43452,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to State Affairs: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -44506,7 +44506,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/21/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar 21 2017 12:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -44540,7 +44540,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to Juvenile Justice &amp; Family Issues: Mar 22 2017 11:37AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -45458,7 +45458,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to Ways &amp; Means: Mar 23 2017 11:29AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -47799,7 +47799,7 @@
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB2828" target="_blank">HB 2828 </a></td>
       <td width="10%">Author:</td>
-      <td width="77%">Oliveira | Clardy</td>
+      <td width="77%">Oliveira</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -48343,7 +48343,7 @@
     <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB2860" target="_blank">HB 2860 </a></td>
       <td width="10%">Author:</td>
-      <td width="77%">Coleman | Meyer</td>
+      <td width="77%">Coleman</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -49759,7 +49759,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to Natural Resources: Mar 23 2017 11:29AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -49844,7 +49844,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to Natural Resources: Mar 23 2017 11:29AM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -50082,7 +50082,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to State Affairs: Mar 22 2017  4:14PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -50541,7 +50541,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to Ways &amp; Means: Mar 22 2017  4:14PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -50626,7 +50626,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/15/2017 H Referred to Higher Education: Mar 15 2017  1:36PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -50643,7 +50643,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to County Affairs: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -50711,7 +50711,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/22/2017 H Referred to Ways &amp; Means: Mar 22 2017  4:14PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -65331,7 +65331,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/14/2017 H Referred to State Affairs: Mar 14 2017  4:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72685,6 +72685,23 @@
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
     <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HB4292" target="_blank">HB 4292 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Zerwas</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Relating to the powers and duties of the Fort Bend County Municipal Management District No. 1; authorizing the imposition of a tax.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
       <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HCR26" target="_blank">HCR 26   </a></td>
       <td width="10%">Author:</td>
       <td width="77%">Keough | Schofield | Metcalf | Bell</td>
@@ -72692,7 +72709,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72743,7 +72760,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72760,7 +72777,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72777,7 +72794,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72828,7 +72845,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72862,7 +72879,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72879,7 +72896,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72913,7 +72930,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/15/2017 H Referred to State Affairs: Feb 15 2017 12:01PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -72986,7 +73003,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">02/21/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Feb 21 2017 12:03PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -73137,7 +73154,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Mar  7 2017  3:59PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -73244,7 +73261,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/09/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Mar  9 2017 10:49AM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -73261,7 +73278,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/07/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Mar  7 2017  3:59PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -73755,7 +73772,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Referred to State &amp; Federal Power &amp; Responsibility, Select: Mar 23 2017  4:10PM </td>
+      <td width="77%">03/30/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -74078,7 +74095,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/23/2017 H Comte report filed with Committee Coordinator</td>
+      <td width="77%">03/24/2017 H Committee report sent to Calendars</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -74554,7 +74571,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" nowrap>Last Action: </td>
-      <td width="77%">03/20/2017 H Referred to State Affairs: Mar 20 2017  3:24PM </td>
+      <td width="77%">03/29/2017 H Scheduled for public hearing on . . .</td>
     </tr>
     <tr>
       <td width="13%"></td>
@@ -93038,7 +93055,7 @@
     <tr>
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
-      <td width="77%" valign="top">In memory of Janice Evelyn Christiansen May of Austin.<br><br></td>
+      <td width="77%" valign="top">In memory of Janice Evelyn Christensen May of Austin.<br><br></td>
     </tr>
   </table>
   <table width="100%" cellpadding="1" cellspacing="1">
@@ -94280,6 +94297,771 @@
       <td width="13%"></td>
       <td width="10%" valign="top">Caption:</td>
       <td width="77%" valign="top">Congratulating Bob L. Townsend on his retirement from the Richardson City Council.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1087" target="_blank">HR 1087 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Anderson, Charles "Doc"</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Commemorating the 150th anniversary of the Chisholm Trail.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1088" target="_blank">HR 1088 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Davis, Yvonne</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Congratulating the Duncanville High School girls' basketball team on winning the 2017 UIL 6A state championship.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1089" target="_blank">HR 1089 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Corrections Officer Mari A. Johnson of the Texas Department of Criminal Justice.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1090" target="_blank">HR 1090 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Guillen</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Flavio Rene Gonzalez.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1091" target="_blank">HR 1091 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Justin R. Scherlen of the Amarillo Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1092" target="_blank">HR 1092 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Jailer Robert E. Ransom of the Gregg County Sheriff's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1093" target="_blank">HR 1093 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Detention Officer Tronoski D. Jones of the Harris County Sheriff's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1094" target="_blank">HR 1094 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Chief Darrell L. Allen of the Marlin Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1095" target="_blank">HR 1095 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Calvin "Mark" McCullers Jr. of the Southern Methodist University Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1096" target="_blank">HR 1096 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer David S. Hofer of the Euless Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1097" target="_blank">HR 1097 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Patrolman David Ortiz of the El Paso Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1098" target="_blank">HR 1098 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Sergeant Korby Lee Kennedy of the San Angelo Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1099" target="_blank">HR 1099 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Corrections Officer Christopher Davis of the Texas Department of Criminal Justice.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1100" target="_blank">HR 1100 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Sergeant Christopher Dan Kelley of the Hutto Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1101" target="_blank">HR 1101 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Corrections Officer Timothy Davison of the Texas Department of Criminal Justice.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1102" target="_blank">HR 1102 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Sergeant William Karl Keesee of the Texas Department of Public Safety.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1103" target="_blank">HR 1103 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Deputy Sheriff Darren Goforth of the Harris County Sheriff's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1104" target="_blank">HR 1104 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Trooper Jeffrey D. Nichols of the Texas Department of Public Safety.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1105" target="_blank">HR 1105 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Border Patrol Agent Jose D. Barraza of the U.S. Department of Homeland Security.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1106" target="_blank">HR 1106 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Endy N. Ekpanya of the Pearland Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1107" target="_blank">HR 1107 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Sergeant Stacey A. Baumgartner of the Patton Village Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1108" target="_blank">HR 1108 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Sergeant Michael J. Smith of the Dallas Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1109" target="_blank">HR 1109 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Michael L. Krol of the Dallas Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1110" target="_blank">HR 1110 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Patricio E. Zamarripa of the Dallas Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1111" target="_blank">HR 1111 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Brent A. Thompson of the Dallas Area Rapid Transit Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1112" target="_blank">HR 1112 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Senior Corporal Lorne B. Ahrens of the Dallas Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1113" target="_blank">HR 1113 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Richard K. Martin of the Houston Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1114" target="_blank">HR 1114 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Senior Police Officer Amir Abdul-Khaliq Jr. of the Austin Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1115" target="_blank">HR 1115 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Officer Marco A. Zarate of the Bellaire Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1116" target="_blank">HR 1116 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Patrolman Adrian Arellano of the El Paso Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1117" target="_blank">HR 1117 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Deputy Sheriff Kenneth H. Maltby of the Eastland County Sheriff's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1118" target="_blank">HR 1118 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Deputy Constable Jeffrey Emmons Radford of the Bell County Constable's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1119" target="_blank">HR 1119 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Assistant Commander Kenneth J. Starrs of the South Texas Specialized Crimes and Narcotics Task Force.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1120" target="_blank">HR 1120 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Detective Benjamin E. Marconi of the San Antonio Police Department.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1121" target="_blank">HR 1121 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Lucio III</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Corrections Officer Eligio Ruiz Garcia Jr. of the Texas Department of Criminal Justice.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1122" target="_blank">HR 1122 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Neave</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Honoring IGNITE for encouraging young women to pursue positions of political leadership.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1123" target="_blank">HR 1123 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Herrero</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing Behavioral Health Center of Nueces County employees for their service.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1124" target="_blank">HR 1124 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Herrero</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Congratulating Diane Lowrance on her retirement as chief executive officer of the Behavioral Health Center of Nueces County.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1125" target="_blank">HR 1125 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Herrero</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Commending Hausman Foods in Corpus Christi on its many decades of service to the local community.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1126" target="_blank">HR 1126 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">White</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Congratulating the members of the Bob Belt family on their selection as parade marshals for the 74th Tyler County Dogwood Festival.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1127" target="_blank">HR 1127 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">White</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Congratulating Chase Nalley on being sworn in as a deputy of the Tyler County Sheriff's Office.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1128" target="_blank">HR 1128 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Laubenberg</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Recognizing March 28 and 29, 2017, as Collin County Days at the State Capitol.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1129" target="_blank">HR 1129 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Turner</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Bobby Kenneth Steen of Grand Prairie.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1130" target="_blank">HR 1130 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Turner</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/24/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">Commemorating the 29th Annual NAACP Grand Prairie Freedom Fund Scholarship Banquet.<br><br></td>
+    </tr>
+  </table>
+  <table width="100%" cellpadding="1" cellspacing="1">
+    <tr>
+      <td width="13%" nowrap><a href="http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;Bill=HR1131" target="_blank">HR 1131 </a></td>
+      <td width="10%">Author:</td>
+      <td width="77%">Herrero</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" nowrap>Last Action: </td>
+      <td width="77%">03/27/2017 H Filed</td>
+    </tr>
+    <tr>
+      <td width="13%"></td>
+      <td width="10%" valign="top">Caption:</td>
+      <td width="77%" valign="top">In memory of Nadia Renee Guerra of Corpus Christi.<br><br></td>
     </tr>
   </table>
 </html>

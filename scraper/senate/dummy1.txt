@@ -45,7 +45,7 @@
                 </td></tr>
               <tr>
                 <td nowrap align="left" colSpan="2">
-			<font style="font-weight: bold; font-size: 10px" color=white>House: <script src="/tlodocs/SessionTime/HouseSessTime.js?v=42817"></script></font><br/><font style="font-weight: bold; font-size: 10px" color=white>Senate: <script src="/tlodocs/SessionTime/SenateSessTime.js?v=42817"></script></font>
+			<font style="font-weight: bold; font-size: 10px" color=white>House: <script src="/tlodocs/SessionTime/HouseSessTime.js?v=42821"></script></font><br/><font style="font-weight: bold; font-size: 10px" color=white>Senate: <script src="/tlodocs/SessionTime/SenateSessTime.js?v=42821"></script></font>
             </td></tr>
             </table>
         </td></tr>
