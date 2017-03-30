@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 <html>
 	<head>
-		<title id="pageTitle">Texas Legislature Online - 85(R) History for HR 1131</title>
+		<title id="pageTitle">Texas Legislature Online - 85(R) History for HR 1209</title>
 		<link rel="Shortcut Icon" type="image/x-icon" href="../images/favicon.ico" />			
 		<script src="../scripts/billnumber.js" type="text/javascript"></script>
 		<script src="../scripts/dialogWindow.js" type="text/javascript"></script>			
@@ -40,12 +40,12 @@
                 <a class="utilityLink" href="/Resources/sitemap.aspx"><strong>Site Map</strong></a> |
                 <a class="utilityLink" href="/Resources/contactText.aspx"><strong>Contact</strong></a> |
 				
-                  <a class="utilityLink" href="/MyTLO/Login/Login.aspx?ReturnUrl=/BillLookup/History.aspx?LegSess=85R&Bill=HR1131"><strong>Login</strong></a> &nbsp;
+                  <a class="utilityLink" href="/MyTLO/Login/Login.aspx?ReturnUrl=/BillLookup/History.aspx?LegSess=85R&Bill=HR1209"><strong>Login</strong></a> &nbsp;
                                   
                 </td></tr>
               <tr>
                 <td nowrap align="left" colSpan="2">
-			<font style="font-weight: bold; font-size: 10px" color=white>House: <script src="/tlodocs/SessionTime/HouseSessTime.js?v=42821"></script></font><br/><font style="font-weight: bold; font-size: 10px" color=white>Senate: <script src="/tlodocs/SessionTime/SenateSessTime.js?v=42821"></script></font>
+			<font style="font-weight: bold; font-size: 10px" color=white>House: <script src="/tlodocs/SessionTime/HouseSessTime.js?v=42824"></script></font><br/><font style="font-weight: bold; font-size: 10px" color=white>Senate: <script src="/tlodocs/SessionTime/SenateSessTime.js?v=42824"></script></font>
             </td></tr>
             </table>
         </td></tr>
@@ -126,7 +126,7 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
                 <div style="white-space: nowrap;">
                     <div id="pagetabUnderLine">
                         <div id="pagetabs">
-                            <IMG height="15" src="/Images/tab_lefton.gif" width="24"><A  class="active"  href="History.aspx?LegSess=85R&Bill=HR1131" accesskey="J">History</A><IMG height="15" src="/Images/tab_onoff.gif" width="24"><A  class="enabledButNotActive"  href="Text.aspx?LegSess=85R&Bill=HR1131" accesskey="">Text</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Actions.aspx?LegSess=85R&Bill=HR1131" accesskey="">Actions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Companions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Amendments</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Authors.aspx?LegSess=85R&Bill=HR1131" accesskey="">Authors</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Sponsors</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Captions.aspx?LegSess=85R&Bill=HR1131" accesskey="">Captions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Bill Stages</A><IMG height="15" src="/Images/tab_rightoff.gif" width="24">
+                            <IMG height="15" src="/Images/tab_lefton.gif" width="24"><A  class="active"  href="History.aspx?LegSess=85R&Bill=HR1209" accesskey="J">History</A><IMG height="15" src="/Images/tab_onoff.gif" width="24"><A  class="enabledButNotActive"  href="Text.aspx?LegSess=85R&Bill=HR1209" accesskey="">Text</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Actions.aspx?LegSess=85R&Bill=HR1209" accesskey="">Actions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Companions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Amendments</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Authors.aspx?LegSess=85R&Bill=HR1209" accesskey="">Authors</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Sponsors</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  class="enabledButNotActive"  href="Captions.aspx?LegSess=85R&Bill=HR1209" accesskey="">Captions</A><IMG height="15" src="/Images/tab_offoff.gif" width="24"><A  id="nodata" >Bill Stages</A><IMG height="15" src="/Images/tab_rightoff.gif" width="24">
                         </div>
                         <div id="panelLinks">
                             
@@ -157,7 +157,7 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 							<strong>Bill:</strong>&nbsp;
 						</td>
 						<td>
-							<span id="usrBillInfoTabs_lblBill">HR 1131</span>&nbsp;
+							<span id="usrBillInfoTabs_lblBill">HR 1209</span>&nbsp;
 						</td>
 					</tr>
 				</table>
@@ -170,7 +170,7 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 			<td align='right'>
 				<strong>
 					<span id="usrBillInfoTabs_lblItem2"><b>Council Document:</b></span></strong>
-				<span id="usrBillInfoTabs_lblItem2Data">85R 17732 BK-D</span>
+				<span id="usrBillInfoTabs_lblItem2Data">85R 19082(5) KSM-PD</span>
 			</td>
 			<td nowrap class="noPrint" align="right" valign="top">
 				<table cellpadding="0" cellspacing="0" border="0">
@@ -191,14 +191,14 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 </div>
 
 		<div id="content">
-		<form name="Form1" method="post" action="History.aspx?LegSess=85R&amp;Bill=HR1131" id="Form1">
+		<form name="Form1" method="post" action="History.aspx?LegSess=85R&amp;Bill=HR1209" id="Form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMTE3MjMxMzRkZDFJcL0TY15jx8+DkoIWVH6Jenot" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="05587D32" />
 
 				<table id="tblLastAction" border="0" width="98%">
 	<tr id="rowLastAction">
-		<td valign="top" width="19%"><b>Last Action:</b></td><td id="cellLastAction"><i>03/27/2017 H Filed</i></td>
+		<td valign="top" width="19%"><b>Last Action:</b></td><td id="cellLastAction"><i>03/30/2017 H Filed</i></td>
 	</tr><tr>
 		<td height="10"></td>
 	</tr>
@@ -206,19 +206,19 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 	<tr id="rowCaptionVersion">
 		<td valign="top" width="19%"><b>Caption Version:</b></td><td id="cellCaptionVersion">Introduced</td>
 	</tr><tr id="rowCaptionText">
-		<td valign="top" width="19%"><b>Caption Text:</b></td><td id="cellCaptionText">In memory of Nadia Renee Guerra of Corpus Christi.</td>
+		<td valign="top" width="19%"><b>Caption Text:</b></td><td id="cellCaptionText">Recognizing the 2017 National Night Out Against Crime in Pasadena.</td>
 	</tr><tr>
 		<td height="10"></td>
 	</tr>
 </table><table id="tblAuthors" border="0" width="98%">
 	<tr id="rowAuthors">
-		<td valign="top" width="19%"><b>Author:</b></td><td id="cellAuthors">Herrero</td>
+		<td valign="top" width="19%"><b>Author:</b></td><td id="cellAuthors">Cain</td>
 	</tr><tr>
 		<td height="10"></td>
 	</tr>
 </table><table id="tblSubjects" border="0" width="98%">
 	<tr id="rowSubjects">
-		<td valign="top" width="19%"><b>Subjects:</b></td><td id="cellSubjects">Resolutions--Memorial (I0710)<br/></td>
+		<td valign="top" width="19%"><b>Subjects:</b></td><td id="cellSubjects">PASADENA, CITY OF (G0560)<br/>Resolutions--Congratulatory & Honorary (I0705)<br/>NIGHT OUT AGAINST CRIME, NATIONAL (N9247)<br/></td>
 	</tr><tr>
 		<td height="10"></td>
 	</tr>
@@ -240,7 +240,7 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 	<tr style="background-color: #d0d0d0">
 		<td COLSPAN="2" style="text-align: center">Description</td>
 		<td style="text-align: center">Comment</td>
-		<td style="text-align: center"><a name="Actions" href="?LegSess=85R&Bill=HR1131&Sort=A#Actions" title="Order in ascending date order" accesskey="D">Date<img src="../images/downarrow.gif" id="Img1" width="13" height="10"></a></td>
+		<td style="text-align: center"><a name="Actions" href="?LegSess=85R&Bill=HR1209&Sort=A#Actions" title="Order in ascending date order" accesskey="D">Date<img src="../images/downarrow.gif" id="Img1" width="13" height="10"></a></td>
 		<td style="text-align: center">
 			&nbsp; &nbsp; &nbsp; Time &nbsp; &nbsp; &nbsp;</td>
 		<td style="text-align: center">Journal Page</td>
@@ -250,7 +250,7 @@ TABLE.nav TD.highlight {background-color:#8c1010;padding:0 8px 0 3px;}
 				<td>H&nbsp;</td>
 		        <td>&nbsp;Filed&nbsp;</td>
 				<td>&nbsp;&nbsp;</td>
-				<td>&nbsp;03/27/2017&nbsp;</td>
+				<td>&nbsp;03/30/2017&nbsp;</td>
 				<td>&nbsp;&nbsp;</td>
 				<td style="text-align: center"></td>
 			</tr>
